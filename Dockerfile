@@ -1,7 +1,7 @@
 FROM alpine:edge
 
-ARG TAG=2601
-ARG COMMIT=38fbfcac38b185651fcaee41f16c0817d766295d
+ARG TAG=2602
+ARG COMMIT=d79f98b13ec441496d7ef88e158bc5ae52e33a8d
 
 RUN apk add --no-cache curl ca-certificates
 
